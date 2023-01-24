@@ -1,0 +1,162 @@
+.logo-header img{
+width:130px;
+}
+.logo-header .Qatar_ameer{
+    width: 182px;
+    padding-top: 16px;
+}
+div.request-a-quote{
+    background-image:url(img/conBG.jpg);
+}
+.testimonials{
+    background-image:url(../img/pic7.jpeg);
+}
+.dez-media img, .dez-post-media img{
+    height: 200px;
+    transition: .5s;
+}
+.logo-footer img{
+    width: 170px;
+}
+.slider{
+    height: 300px;
+}
+#carousel-example-generic{
+    height: 100%;
+}
+.carousel-inner{
+    height: 100%;
+}
+.slider .item{
+    height: 100%
+}
+.banner{
+    background-image: url(../img/5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;background-position: center center;
+    height: 100%;
+}
+.mainslider .item .cover .header-content h2 {
+    line-height: 43px;
+}
+.mainslider .item .cover .header-content h1 {
+    line-height: 60px;
+}
+.our-service{
+    z-index: 1;
+}
+.testimonial-6 .testimonial-detail:after{
+    right: -21px;
+}
+.mainslider .item .cover .header-content h1{
+    color: #ce102e;
+    line-height: 90px;
+}
+.widget_gallery a, .widget_gallery li, .widget_gallery li img {
+    display: inline-block;
+    
+}
+.widget_gallery li {
+    margin-bottom: 5px;
+    width: 32.1%;
+    height: 70px;
+    border: 2px solid transparent;
+}
+
+.widget_gallery a, .widget_gallery li img{
+    height: 100%;
+    width: 100%;
+}
+button.scroltop{
+    outline: none;
+}
+.widget{
+    padding-top: 10px;
+}
+.logo-header>a{
+    padding: 2px 0;
+}
+    .mainslider .owl-nav .owl-prev,.mainslider .owl-nav .owl-next{
+    top: 35%;
+    width: 31px;
+    cursor: pointer;
+    height: 115px;
+    
+}
+.contact-info span.site{
+    font-size: 18px;
+    font-weight: 100;
+}
+.social-line li a img{
+    width: 30px;
+}
+.mainslider .item .cover .header-content a {
+    display: inline-block;
+    background-color: #ce102e;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-transform: capitalize;
+    z-index: 1;
+}
+.mainslider .item .cover .header-content a:hover {
+    
+    background-color: #d01e3b;
+    
+}
+.mainslider .item .cover .header-content .line{
+    z-index: -1;
+}
+.nav-dark.header-nav .nav>li .sub-menu li {
+    border-bottom: 1px solid rgba(183, 176, 176, 0.2);
+}
+/*responsive*/
+@media (max-width:768px){
+.mainslider .item .cover .header-content h1 {
+    color: #ce102e;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 40px;
+    }
+.mainslider .item .cover .header-content h2 {
+    font-size: 21px;
+}
+    .mainslider .item .cover .header-content h4 {
+    font-size: 18px;
+    line-height: 25px;
+}
+    .mainslider .owl-nav .owl-prev,.mainslider .owl-nav .owl-next{
+    top: 26%;
+    width: 31px;
+    cursor: pointer;
+    height: 115px;
+    
+}
+    .section-head h2{
+            font-weight: bold;
+    font-size: 25px;
+    }
+}
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+    margin-right: 0;
+    margin-left: 307px;
+}
+.logo-header img{
+    transition: .5s;
+}
+.is-fixed .logo-header img{
+    width: 100px;
+}
+@media (max-width: 1200px){
+    .container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header    {
+        margin-right: 0;
+        margin-left: 250px;
+    }
+}
+@media (max-width: 992px){
+    .container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header    {
+        margin-right: 0;
+        margin-left: 0px;
+    }
+}
